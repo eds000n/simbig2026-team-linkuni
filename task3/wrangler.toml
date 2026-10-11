@@ -1,1 +1,10 @@
 name = "task3"
+compatibility_date = "2026-10-11"
+
+[assets]
+directory = "./public"
+
+# Custom domain: uncomment once the domain's DNS zone is on Cloudflare
+# routes = [
+#   { pattern = "your-domain.example", custom_domain = true }
+# ]
